@@ -15,6 +15,8 @@ This game uses mouse and keyboard. Left click is used to “shoot” a crystal a
 
 **[Here](https://youtu.be/mFgl3NRhtsA)** is a video showcasing some of the game's features.
 
+Proto was originally made in 2018
+
 note: I've only included the C# files in the repository as the project takes too long otherwise to upload. The assets I've left out are not programming related (mainly art assets).
 
 
