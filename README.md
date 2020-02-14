@@ -13,6 +13,8 @@ This game uses mouse and keyboard. Left click is used to “shoot” a crystal a
 - Bring back dead walls to life: red, green, blue
 - It is recommended to take the tutorial before playing survival mode.
 
+[Here](https://youtu.be/mFgl3NRhtsA) is a video showcasing some of the game's features.
+
 note: I've only included the C# files in the repository as the project takes too long otherwise to upload. The assets I've left out are not programming related (mainly art assets).
 
 
