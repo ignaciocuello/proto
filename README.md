@@ -1,24 +1,36 @@
 # proto
-###### C# code for proto project
+
+**Proto** is a fast-paced game where players must "shoot" at crystals to prevent them from breaking through their perimeter walls.
+
+## About Proto
 
 The main goal of the game is to prevent the crystals that are spawned at the center from breaking through the walls and leaving the edge of the screen. 
-If they breakthrough, you will lose a heart, losing all your three hearts results in you losing the game.
+If they breakthrough, you will lose a heart, losing all your three hearts results in you losing the game. 
 
-This game uses mouse and keyboard. Left click is used to “shoot” a crystal and deal a single point of damage. Right click is used to collect crystal fragments that are dropped when they die. In order to “shoot” a crystal the sphere around them must be clicked. Collecting crystal fragments fills up your power bar with colors, your bar has 3 slots, when your bar has a valid spell signature (such as red, red, red) if you press space bar you will cast that spell. The valid spell signatures are as follows:
+### Game Mechanics
 
-- Destroy all non-red crystals: red, red, red
-- Slow down time: blue, blue, blue
-- Zoom out camera: green, green, green
-- Make walls invincible: blue, green, red
-- Bring back dead walls to life: red, green, blue
-- It is recommended to take the tutorial before playing survival mode.
+1. **Shooting Crystals:** Aim and left-click on the sphere surrounding the crystals to shoot and damage them.
+2. **Collecting Crystal Fragments:** Right-click on the fragments to collect them and charge your power bar.
+3. **Spell Casting:** Combine different colored fragments in your power bar to cast spells. Valid combinations include:
+   - Red, Red, Red: Destroys all non-red crystals.
+   - Blue, Blue, Blue: Slows down time.
+   - Green, Green, Green: Zooms out the camera.
+   - Blue, Green, Red: Makes walls invincible.
+   - Red, Green, Blue: Revives dead walls.
+4. **Survival Mode:** See how long you can hold off crystals from breaking through your defence.
 
-**Here is a video showcasing the game's main features:**
+## Video Showcase
+
+Explore the main features of Proto through this gameplay video. 👇
 
 [![Feature showcase](http://img.youtube.com/vi/mFgl3NRhtsA/0.jpg)](http://www.youtube.com/watch?v=mFgl3NRhtsA)
 
-Proto was originally made in 2018.
+## Project History
 
-note: I've only included the C# files in the repository as the project takes too long otherwise to upload. The assets I've left out are not programming related (mainly art assets).
+### Original Development
+Proto was first developed in 2018 as part of a game development course at university.
+
+### Migration to GitHub
+The project, excluding art assets, was uploaded to GitHub in 2020. This move was intended to archive the code and make it accessible to the public.
 
 
