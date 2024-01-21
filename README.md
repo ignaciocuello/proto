@@ -1,4 +1,4 @@
-# proto
+# Proto
 
 **Proto** is a fast-paced game where players must "shoot" at crystals to prevent them from breaking through their perimeter walls.
 
